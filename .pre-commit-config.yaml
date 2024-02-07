@@ -11,5 +11,5 @@ repos:
             "rn", #Only display message
             "-sn", # Don't display the score
             "--rcfile=.pylintrc", #Link to your config file
-            "--load-plugin=pylint.extensions.docparams" #Load an extension
+            "--load-plugin=pylint.extensions.docparams" #Load an extension  
           ]
